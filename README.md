@@ -1,4 +1,4 @@
-# Dicoding Submission: Membangun Notes App
+# Dicoding Submission Proyek Awal: Membangun Notes App
 
 
 Kriteria yang harus dipenuhi :
