@@ -1,7 +1,7 @@
-# notes-app-1
 # Dicoding Submission: Membangun Notes App
 
-# Kriteria yang harus dipenuhi
+
+Kriteria yang harus dipenuhi :
 1. Menampilkan Daftar Catatan dengan Baik
 2. Formulir Tambah Catatan
 3. CSS Grid sebagai Metode Layouting
